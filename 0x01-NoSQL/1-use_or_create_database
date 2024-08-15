@@ -1,2 +1,4 @@
 // Uses or creates a MongoDB database.
-use my_db;
+mongo <<EOF
+use my_db
+EOF
