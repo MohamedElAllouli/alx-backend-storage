@@ -1,4 +1,2 @@
 // Uses or creates a MongoDB database.
-mongo <<EOF
 use my_db
-EOF
